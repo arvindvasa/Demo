@@ -1,3 +1,6 @@
 Welcome to GitHub
 
 edited for the first time
+
+third commit,
+this time included some more stuff
